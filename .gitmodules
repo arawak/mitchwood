@@ -1,0 +1,6 @@
+[submodule "themes/gitblog"]
+	path = themes/gitblog
+	url = https://github.com/thegeeklab/hugo-geekblog.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
